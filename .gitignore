@@ -1,0 +1,4 @@
+.idea
+.env
+seyhoun.db*
+Makefile
